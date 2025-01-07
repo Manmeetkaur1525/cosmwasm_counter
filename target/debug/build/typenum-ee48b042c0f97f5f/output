@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/manmeet/Desktop/Airchains/cosmwasm-contracts/counter-contract/target/debug/build/typenum-ee48b042c0f97f5f/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/manmeet/Desktop/Airchains/cosmwasm-contracts/counter-contract/target/debug/build/typenum-ee48b042c0f97f5f/out/op.rs
